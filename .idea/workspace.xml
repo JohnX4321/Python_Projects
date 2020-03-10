@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d006b0fd-05c5-41a7-be9f-326d7f89878e" name="Default Changelist" comment="" />
+    <list default="true" id="d006b0fd-05c5-41a7-be9f-326d7f89878e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,10 +17,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1SjXN6YJfRAHrny03cacX3r1GHt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/blackjack" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/misc/codes" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -174,12 +180,29 @@
       <option name="presentableId" value="Default" />
       <updated>1572077935182</updated>
       <workItem from="1572077936579" duration="630000" />
-      <workItem from="1572079359805" duration="6658000" />
+      <workItem from="1572079359805" duration="6899000" />
+      <workItem from="1573306646142" duration="50000" />
+      <workItem from="1581858784541" duration="423000" />
+      <workItem from="1582195089188" duration="7000" />
+      <workItem from="1583847910571" duration="458000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/games$path_finding.coverage" NAME="path_finding Coverage Results" MODIFIED="1572082365925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/path-finding" />
